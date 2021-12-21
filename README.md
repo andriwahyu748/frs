@@ -15,6 +15,15 @@
     	<br>
     <p style="font-family:Tahoma">Tempat wisata yang masuk dalam wilayah Perhutani Kesatuan Pemangkuan Hutan (KPH) Banyumas Timur tersebut mulai dibenahi dengan berbagai fasilitas, karena dijadikan tujuan wisata secara resmi. KPH Banyumas Timur telah melengkapi dengan tempat parkir, tempat istirahat, dan kamar mandi. Bahkan Perhutani telah memberi nama-nama pohon langka yang hidup di situ. Tujuannya tidak lain diperuntukkan bagi para pelajar, di samping menikmati alam, mereka juga dapat mengenal tumbuh-tumbuhan langka yang hidup di tempat itu.</p>
     	<br>
+    <img src="cpd2.jpg" width="35%">
     <p style="font-family:Tahoma">Curug Cipendok terletak di Desa Karangtengah, Kecamatan Cilongok, Kabupaten Banyumas. Lokasi air terjun ini cukup mudah untuk dicapai. Jalan menuju lokasi sudah diaspal semua. Sampai lokasi parkir, kemudian harus berjalan menuju lokasi air terjun. Di jalan menuju lokasi, banyak warung yang menjajakan Mendoan, susu murni yang bisa ditemukan di warung-warung rumah penduduk. Perkebunan tomat, cabai dan seledri cukup menarik dinimati dalam perjalanan menuju lokasi. Belum lagi sungai-sungai kecil denga air jernih mengalir, bisa mengundang untuk turun sejenak merasakan sejuk dan jernihnya air pegunungan. Bila hari besar seperti libur lebaran, lokasi ini cukup ramai dikunjungi setiap tahunnya.</p>
+    	<br>
+    <p style="font-family:Tahoma">Curug Cipendok terletak di Desa Karangtengah, Kecamatan Cilongok, Kabupaten Banyumas. Lokasi air terjun ini cukup mudah untuk dicapai. Jalan menuju lokasi sudah diaspal semua. Sampai lokasi parkir, kemudian harus berjalan menuju lokasi air terjun. Di jalan menuju lokasi, banyak warung yang menjajakan Mendoan, susu murni yang bisa ditemukan di warung-warung rumah penduduk. Perkebunan tomat, cabai dan seledri cukup menarik dinimati dalam perjalanan menuju lokasi. Belum lagi sungai-sungai kecil denga air jernih mengalir, bisa mengundang untuk turun sejenak merasakan sejuk dan jernihnya air pegunungan. Bila hari besar seperti libur lebaran, lokasi ini cukup ramai dikunjungi setiap tahunnya.</p>
+    	<br>
+    <img src="cpd3.jpg" width="35%">
+    <p style="font-family:Tahoma">Harga tiket masuk obyek wisata alam air terjun Curug Cipendok bisa berubah setiap waktu dan belum termasuk retribusi parkir kendaraan. Sedangkan untuk operasional wisatanya sendiri, Air terjun Curug Cipendok Purwokerto buka setiap hari mulai dari jam 07.00 – 16.00 WIB.</p>
+    	<br>
+    <img src="cpd5.jpg" width="35%">
+    <img src="cpd6.jpg" width="35%">
 </body>
 </html>
